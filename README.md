@@ -2,8 +2,10 @@
 ### Bem vindos ao meu perfil no Github!
 
 Meu nome é Rodolfo Santos 🤓
-Trabalho como desenvolvedor desde 2012 e tive oportunidade de participar de muitos projetos interessantes.
-Moro em São Paulo/Brasil.
+
+- Formado em Sistemas de Informação
+- Trabalho como desenvolvedor desde 2012 
+- Moro em São Paulo/Brasil.
 
 Atualmente estou 100% focado na melhoria da qualidade do código e estudando ***MUITO*** Arquitetura de Software.
 
@@ -41,27 +43,19 @@ Atualmente estou 100% focado na melhoria da qualidade do código e estudando ***
 
 ### Contatos:
 
-Entre em contato 
-
 <div>
-<a href="https://www.linkedin.com/in/rodolfosantos23" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width='80'></a>
-<a href="mailto:rodolfosantos23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width></a>
+<a href="https://www.linkedin.com/in/rodolfosantos23" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width='80'></a>
+<a href="mailto:rodolfosantos23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width='65'></a>
 </div>
 
 
-
-
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
-
 
 
 <div>
-<a href="https://github.com/rodolfosantos23">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfosantos23&layout=compact&langs_count=7&theme=dracula"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=rodolfosantos23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+<a href="https://github.com/rodolfosantos23"><img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfosantos23&layout=compact&langs_count=7&theme=dracula"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=rodolfosantos23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
 
 
