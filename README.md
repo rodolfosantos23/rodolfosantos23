@@ -51,7 +51,7 @@ Atualmente estou 100% focado na melhoria da qualidade do código e estudando ***
 ### Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/rodolfosantos23" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width='80'></a>
+<a href="https://www.linkedin.com/in/rodolfosantos23" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width='85'></a>
 <a href="mailto:rodolfosantos23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width='65'></a>
 <a href="https://rodolfosantos.com.br" target="_blank"><img src="https://img.shields.io/badge/-site-61DAFB?logo=serverfault&logoColor=white&style=for-the-badge" width='56'></a>
 </div>
@@ -67,4 +67,4 @@ Atualmente estou 100% focado na melhoria da qualidade do código e estudando ***
 </div>
 
 
-Full Stack Developer - Since 2012® - Dev 💻 Gamer 🎮 Guitar 🎸 and Coffee ☕
+Full Stack Developer - Since 2012® - Dev 💻 Games 🎮 Guitar 🎸 Coffee ☕
