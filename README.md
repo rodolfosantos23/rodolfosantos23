@@ -40,6 +40,7 @@ Atualmente estou 100% focado na melhoria da qualidade do código e estudando ***
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle" />
 </div>
 
 ##### HTML + CSS
