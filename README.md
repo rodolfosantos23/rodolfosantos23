@@ -52,8 +52,11 @@ Atualmente estou 100% focado em melhoria da qualidade do código, design pattern
 </div>
 
 ##### Infra / Outros
+
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" title="Docker" />
+</div>
 
 
 ### Contatos:
