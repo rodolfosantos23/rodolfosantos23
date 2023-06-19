@@ -1,17 +1,16 @@
 ## Olá, Devs!
-### Bem vindos ao meu perfil no Github!
+### Bem vindos ao meu Github!
 
 Meu nome é Rodolfo Santos 😃
+Trabalho há mais de 10 anos como desenvolvedor principalmente nas linguagens PHP, Javascript e seus diversos Frameworks.
+Atualmente estou 100% focado em melhoria da qualidade do código, design patterns e arquitetura de Software.
 
 - Formado em Sistemas de Informação
+- Pós Graduação em Engenharia de Qualidade de Software
 - Trabalho como desenvolvedor desde 2012 
-- Moro em São Paulo/Brasil.
-
-Atualmente estou 100% focado na melhoria da qualidade do código e estudando ***MUITO*** arquiteturas de Software.
-
+- São Paulo/Brasil 
 
 ### Ferramentas e Tecnologias:
-
 
 ##### PHP
 
@@ -51,6 +50,10 @@ Atualmente estou 100% focado na melhoria da qualidade do código e estudando ***
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" title="Sass" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" title="Tailwind" />
 </div>
+
+##### Infra / Outros
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" title="Docker" />
 
 
 ### Contatos:
