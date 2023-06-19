@@ -49,6 +49,7 @@ Atualmente estou 100% focado em melhoria da qualidade do código, design pattern
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" title="Sass" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" title="Tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" title="Bootstrap" />
 </div>
 
 ##### Infra / Outros
