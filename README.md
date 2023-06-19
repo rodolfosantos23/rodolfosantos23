@@ -1,7 +1,7 @@
 ## Olá, Devs!
 ### Bem vindos ao meu Github!
 
-Meu nome é Rodolfo Santos 😃
+Meu nome é Rodolfo Santos 😃 <br>
 Trabalho há mais de 10 anos como desenvolvedor principalmente nas linguagens PHP, Javascript e seus diversos Frameworks.
 Atualmente estou 100% focado em melhoria da qualidade do código, design patterns e arquitetura de Software.
 
