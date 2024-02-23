@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+
 ## Olá, Devs!
 ### Bem vindos ao meu Github!
 
@@ -15,11 +17,12 @@ Atualmente estou 100% focado em melhoria da qualidade do código, design pattern
 ##### PHP
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" title="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" title="PHP" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg" width="40" height="40" title="Yii Framework" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" title="Laravel" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" width="40" height="40" title="Symfony" />
-</div>       
+<i class="devicon-symfony-original-wordmark"></i>
+</div>
 
 
 ##### Javascript - Typescript
