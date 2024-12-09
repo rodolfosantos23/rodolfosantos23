@@ -83,4 +83,4 @@ Atualmente estou 100% focado em melhoria da qualidade do código, design pattern
 </div>
 
 
-Full Stack Developer - Since 2012® - Dev 💻 Games 🎮 Guitar 🎸 Coffee ☕
+Developer - Since 2012® - Dev 💻 Games 🎮 Guitar 🎸 Coffee ☕
